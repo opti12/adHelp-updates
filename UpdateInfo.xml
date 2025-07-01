@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.3.0.0</version>
+  <url>https://github.com/opti12/adHelp/releases/download/v1.3.0/adHelp.exe</url>
+  <changelog>https://github.com/opti12/adHelp/releases/tag/v1.3.0</changelog>
+  <mandatory>false</mandatory>
+  <args>/silent</args>
+  <checksum algorithm="SHA2">YOUR_FILE_SHA256_HASH_HERE</checksum>
+</item>
