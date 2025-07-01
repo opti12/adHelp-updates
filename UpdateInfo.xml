@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.2.1.1</version>
-  <url>https://github.com/opti12/adHelp/releases/download/v1.2.1.1/adHelp.exe</url>
-  <changelog>https://github.com/opti12/adHelp/releases/tag/v1.2.1.1</changelog>
+  <version>1.2.2.0</version>
+  <url>https://github.com/opti12/adHelp/releases/download/v1.2.2.0/adHelp.exe</url>
+  <changelog>https://github.com/opti12/adHelp/releases/tag/v1.2.2.0</changelog>
   <mandatory>false</mandatory>
   <args>/silent</args>
-  <checksum algorithm="SHA2">A9C766A60CE66267FD2EB657517E9851B8FC93AD84B643DECA5290235F3E7A82</checksum>
+  <checksum algorithm="SHA256">721ACCF72614305B11F0E154057717D713BDFFCB78DF6A59ADF3ADBE08A104BF</checksum>
 </item>
