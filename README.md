@@ -1,18 +1,16 @@
-# AD Helper - Update Server
+# adHelp 업데이트 센터
 
-이 Repository는 AD Helper 애플리케이션의 자동 업데이트 정보를 제공합니다.
+이 저장소는 adHelp 애플리케이션의 자동 업데이트를 위한 전용 저장소입니다.
 
-## 현재 최신 버전
-- **버전**: v1.3.0
-- **릴리스 노트**: [GitHub Releases](https://github.com/opti12/adHelp/releases)
+## 🚀 현재 버전
+- **최신 버전**: v1.2.2.0
+- **릴리스 날짜**: 2025-07-20
+- **다운로드**: [Latest Release](https://github.com/opti12/adHelp-updates/releases/latest)
 
-## 파일 설명
-- `UpdateInfo.xml`: AutoUpdater.NET에서 사용하는 업데이트 정보 파일
+## 📋 업데이트 정보
+- 자동 업데이트 지원
+- 직접 다운로드 및 설치
+- 백업 및 복원 기능
 
-## 보안 정보
-- 이 Repository는 업데이트 정보만 포함하며, 실제 소스 코드는 포함하지 않습니다
-- 모든 다운로드 링크는 검증된 GitHub Releases를 가리킵니다
-- 파일 무결성은 SHA256 체크섬으로 검증됩니다
-
----
-*메인 프로젝트: [opti12/adHelp](https://github.com/opti12/adHelp) (Private)*
+## 🔗 메인 프로젝트
+- [adHelp 메인 저장소](https://github.com/opti12/adHelp)
