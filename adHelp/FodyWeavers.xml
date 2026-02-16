@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <Costura>
+    <!-- 모든 참조 어셈블리 자동 임베딩 (기본 동작) -->
+    <IgnoreSatelliteAssemblies>true</IgnoreSatelliteAssemblies>
+    <IncludeDebugSymbols>false</IncludeDebugSymbols>
+    <DisableCompression>false</DisableCompression>
+  </Costura>
+</Weavers>

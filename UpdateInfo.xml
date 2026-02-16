@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.2.4.0</version>
+  <url>https://github.com/opti12/adHelp-updates/raw/main/adHelp.exe</url>
+  <changelog>https://github.com/opti12/adHelp/compare/v1.2.4.0...HEAD</changelog>
+  <mandatory>false</mandatory>
+  <args>/silent</args>
+  <checksum algorithm="SHA256">D37166B6FE7C5F252F19215BE5D5F495112F23595D4D0A4D7A89789C92E66299</checksum>
+  <executable>adHelp.exe</executable>
+  <minVersion>1.0.0.0</minVersion>
+</item>
