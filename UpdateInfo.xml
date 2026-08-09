@@ -2,7 +2,7 @@
 <item>
   <version>1.2.7.0</version>
   <url>https://github.com/opti12/adHelp-updates/raw/main/adHelp.exe</url>
-  <changelog>https://github.com/opti12/adHelp/compare/v1.2.7.0...HEAD</changelog>
+  <changelog>https://github.com/opti12/adHelp-updates/commits/main</changelog>
   <mandatory>false</mandatory>
   <args>/silent</args>
   <checksum algorithm="SHA256">BC9A3B3C5FADA774D098DE2EBFCF5527D2732A431019CE5EFD93B766ABA91DFB</checksum>
