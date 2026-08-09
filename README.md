@@ -50,6 +50,7 @@
 
 *   **언어**: C# (7.3)
 *   **프레임워크**: Windows Forms (.NET 4.7.2)
-*   **라이브러리**: System.DirectoryServices.AccountManagement, Costura.Fody (단일 파일 빌드), AutoUpdater.NET
+*   **의존성**: 없음. .NET Framework 기본 어셈블리(`System.DirectoryServices`, `System.DirectoryServices.AccountManagement`, `System.Windows.Forms` 등)만 사용하므로 별도 DLL 없이 `adHelp.exe` 단일 파일로 배포됩니다.
+*   **자동 업데이트**: `WebClient` 기반 자체 구현 (`AutoUpdateManager`)
 
 ---
