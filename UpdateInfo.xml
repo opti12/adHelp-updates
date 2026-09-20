@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.2.7.1</version>
+  <version>1.2.7.2</version>
   <url>https://github.com/opti12/adHelp-updates/raw/main/adHelp.exe</url>
   <changelog>https://github.com/opti12/adHelp-updates/commits/main</changelog>
   <mandatory>false</mandatory>
   <args>/silent</args>
-  <checksum algorithm="SHA256">63DAA96A57038FAF2C3D252DEF5B24F1520DCAE972005319BB0E7B12B3DC378F</checksum>
+  <checksum algorithm="SHA256">9B56BBFE72E35521EFBE4F58C7153D7BA1075CF89C74A5A148207B903D468356</checksum>
   <executable>adHelp.exe</executable>
   <minVersion>1.0.0.0</minVersion>
 </item>
