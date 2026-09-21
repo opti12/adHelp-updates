@@ -5,7 +5,7 @@
   <changelog>https://github.com/opti12/adHelp-updates/commits/main</changelog>
   <mandatory>false</mandatory>
   <args>/silent</args>
-  <checksum algorithm="SHA256">9B56BBFE72E35521EFBE4F58C7153D7BA1075CF89C74A5A148207B903D468356</checksum>
+  <checksum algorithm="SHA256">41DCEAAB11A1C6C01866E50C1F9C47F09D328A46DAA83D06086870E4E7A16F8F</checksum>
   <executable>adHelp.exe</executable>
   <minVersion>1.0.0.0</minVersion>
 </item>
